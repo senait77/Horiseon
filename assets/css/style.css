@@ -7,6 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
+/* header starts here */
 
 header {
     padding: 20px;
@@ -24,7 +25,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
-header div {
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,11 +33,11 @@ header div {
     font-size: 20px;
 }
 
-header div ul {
+header nav ul {
     list-style-type: none;
 }
 
-header div ul li {
+header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -49,6 +50,8 @@ a {
 p {
     font-size: 16px;
 }
+/* header ends here */
+/*contents start here */
 
 .hero {
     height: 800px;
@@ -187,7 +190,9 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* contents end here/*
 
+/*footer stars here */
 footer {
     padding: 30px;
     clear: both;
@@ -198,3 +203,4 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+/* footer ends here */
