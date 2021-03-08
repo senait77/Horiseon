@@ -4,12 +4,10 @@
 
   These is a Horiseon website defines most of the `sematic elements` which are inroduced in `HTML5` and clearly arranges the `Html and ass comments` in the index.html and the style.css worksheets so that it will be easier for every one who see the code. 
 
-  
+  * Here are the links to my GitHub pages:-
 
-* Here are the links to my GitHub pages:-
-
-   * Repo: 
-   * Deploy: 
+    * Repo: https://github.com/senait77/Horiseon
+    * Deploy: https://senait77.github.io/Horiseon/
 
 ## Table of contents
 
